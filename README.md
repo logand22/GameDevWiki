@@ -19,3 +19,4 @@
 
 * [Adobe Color Wheel](https://color.adobe.com/)
 * [Lospec](https://lospec.com/palette-list): Color pallets
+* [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY)
