@@ -2,6 +2,10 @@
 
 ## Art
 
+### Tutorials
+
+* [MiniBoss](https://blog.studiominiboss.com/pixelart): pixel art tutorials
+
 ### Assets
 
 [Open Game Art](https://opengameart.org/)
@@ -13,4 +17,5 @@
 
 ### Color
 
-[Adobe Color Wheel](https://color.adobe.com/)
+* [Adobe Color Wheel](https://color.adobe.com/)
+* [Lospec](https://lospec.com/palette-list): Color pallets
